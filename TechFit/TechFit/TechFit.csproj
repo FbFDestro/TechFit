@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8E9CE0D9-92D8-4425-ACC2-05579FBACA4F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TechFit</RootNamespace>
+    <AssemblyName>TechFit</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mysql.data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acessoAdminEditarPerfil.cs" />
+    <Compile Include="acessoAdminCadastro.cs" />
+    <Compile Include="acessoAluno.cs" />
+    <Compile Include="acessoCEP.cs" />
+    <Compile Include="acessoDadosLogado.cs" />
+    <Compile Include="acessoEditarPerfilAdmin.cs" />
+    <Compile Include="acessoFuncionario.cs" />
+    <Compile Include="acessoFuncionariosObjetivos.cs" />
+    <Compile Include="acessoInicializacoes.cs" />
+    <Compile Include="acessoLogin.cs" />
+    <Compile Include="acessoObservacoes.cs" />
+    <Compile Include="acessoOpcoesFinanceiro.cs" />
+    <Compile Include="acesssoLucroDespesa.cs" />
+    <Compile Include="Conexao2.cs" />
+    <Compile Include="dadosAlunosParaTodosFrms.cs" />
+    <Compile Include="dadosCEP.cs" />
+    <Compile Include="dadosFinanceirosPraTodosFrms.cs" />
+    <Compile Include="dadosFuncParaTodosFrms.cs" />
+    <Compile Include="frmAlunoEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlunoEditar.Designer.cs">
+      <DependentUpon>frmAlunoEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminCadastro.Designer.cs">
+      <DependentUpon>frmAdminCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexao.cs" />
+    <Compile Include="frmAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlunos.designer.cs">
+      <DependentUpon>frmAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlunosCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlunosCadastro.designer.cs">
+      <DependentUpon>frmAlunosCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminEditar.Designer.cs">
+      <DependentUpon>frmAdminEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFinanceiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFinanceiro.designer.cs">
+      <DependentUpon>frmFinanceiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFincanceioOpcoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFincanceioOpcoes.Designer.cs">
+      <DependentUpon>frmFincanceioOpcoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminFuncionarioEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminFuncionarioEditar.Designer.cs">
+      <DependentUpon>frmAdminFuncionarioEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminFuncionarios.designer.cs">
+      <DependentUpon>frmAdminFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminFuncionariosCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminFuncionariosCadastro.designer.cs">
+      <DependentUpon>frmAdminFuncionariosCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastroDespesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastroDespesa.Designer.cs">
+      <DependentUpon>frmCadastroDespesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastroLucro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastroLucro.Designer.cs">
+      <DependentUpon>frmCadastroLucro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFuncionarioEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFuncionarioEditar.Designer.cs">
+      <DependentUpon>frmFuncionarioEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFuncObjetivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFuncObjetivos.Designer.cs">
+      <DependentUpon>frmFuncObjetivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmObjetivosCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmObjetivosCadastro.Designer.cs">
+      <DependentUpon>frmObjetivosCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmObservacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmObservacoes.designer.cs">
+      <DependentUpon>frmObservacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmObservacoesCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmObservacoesCadastro.designer.cs">
+      <DependentUpon>frmObservacoesCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminPrincipal.designer.cs">
+      <DependentUpon>frmAdminPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFuncionarioPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFuncionarioPrincipal.designer.cs">
+      <DependentUpon>frmFuncionarioPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaBuscaCEP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaBuscaCEP.designer.cs">
+      <DependentUpon>frmTelaBuscaCEP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaLogin.designer.cs">
+      <DependentUpon>frmTelaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaSplash.designer.cs">
+      <DependentUpon>frmTelaSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="opcaoDadosObjetivosVariaveis.cs" />
+    <Compile Include="opcaoFinanceiraVariaveis.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAlunoEditar.resx">
+      <DependentUpon>frmAlunoEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminCadastro.resx">
+      <DependentUpon>frmAdminCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlunos.resx">
+      <DependentUpon>frmAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlunosCadastro.resx">
+      <DependentUpon>frmAlunosCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminEditar.resx">
+      <DependentUpon>frmAdminEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFinanceiro.resx">
+      <DependentUpon>frmFinanceiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFincanceioOpcoes.resx">
+      <DependentUpon>frmFincanceioOpcoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminFuncionarioEditar.resx">
+      <DependentUpon>frmAdminFuncionarioEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminFuncionarios.resx">
+      <DependentUpon>frmAdminFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminFuncionariosCadastro.resx">
+      <DependentUpon>frmAdminFuncionariosCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastroDespesa.resx">
+      <DependentUpon>frmCadastroDespesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastroLucro.resx">
+      <DependentUpon>frmCadastroLucro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFuncionarioEditar.resx">
+      <DependentUpon>frmFuncionarioEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFuncObjetivos.resx">
+      <DependentUpon>frmFuncObjetivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmObjetivosCadastro.resx">
+      <DependentUpon>frmObjetivosCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmObservacoes.resx">
+      <DependentUpon>frmObservacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmObservacoesCadastro.resx">
+      <DependentUpon>frmObservacoesCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminPrincipal.resx">
+      <DependentUpon>frmAdminPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFuncionarioPrincipal.resx">
+      <DependentUpon>frmFuncionarioPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaBuscaCEP.resx">
+      <DependentUpon>frmTelaBuscaCEP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaLogin.resx">
+      <DependentUpon>frmTelaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaSplash.resx">
+      <DependentUpon>frmTelaSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\1432795416_common_logout_signout_exit_.png" />
+    <None Include="Resources\concluir.png" />
+    <None Include="Resources\CONCKUIR.png" />
+    <None Include="Resources\CONCLUISA.png" />
+    <None Include="Resources\funcEditarPerfil.jpg" />
+    <None Include="Resources\objetivosCad.jpg" />
+    <None Include="Resources\funcObjetivos.jpg" />
+    <None Include="Resources\FuncionarioPrincipalMenu.jpg" />
+    <None Include="Resources\voltar.png" />
+    <None Include="Resources\adminAlunosEdit.jpg" />
+    <None Include="Resources\funcAlunoEditar.jpg" />
+    <None Include="Resources\adminFuncionariosEdit.jpg" />
+    <None Include="Resources\cadasrtrarLucros.jpg" />
+    <None Include="Resources\cadasrtrarDespesa.jpg" />
+    <None Include="Resources\FinanceiroOpcoes.jpg" />
+    <None Include="Resources\AdminEditarP.jpg" />
+    <None Include="Resources\EX.png" />
+    <None Include="Resources\splash.jpg" />
+    <None Include="Resources\login.jpg" />
+    <None Include="Resources\load.gif" />
+    <None Include="Resources\funcObsCadastro.jpg" />
+    <None Include="Resources\funcionarioObservacoesLista.jpg" />
+    <None Include="Resources\funcionarioObservacoesCadastro.jpg" />
+    <None Include="Resources\funcionarioMenuPrincipal.jpg" />
+    <None Include="Resources\funcionarioAlunosLista.jpg" />
+    <None Include="Resources\funcionarioAlunosCadastro.jpg" />
+    <None Include="Resources\funcFinanceiro.jpg" />
+    <None Include="Resources\adminObservacoesLista.jpg" />
+    <None Include="Resources\adminObsCadastro.jpg" />
+    <None Include="Resources\adminMenuPrincipal.jpg" />
+    <None Include="Resources\adminFuncionariosLista.jpg" />
+    <None Include="Resources\adminFuncionariosCadastro.jpg" />
+    <None Include="Resources\adminFinanceiro.jpg" />
+    <None Include="Resources\adminEditarPerfil.jpg" />
+    <None Include="Resources\AdminEditarPerf.jpg" />
+    <None Include="Resources\AdminCad.jpg" />
+    <None Include="Resources\adminAlunosLista.jpg" />
+    <None Include="Resources\adminAlunosCadastro.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

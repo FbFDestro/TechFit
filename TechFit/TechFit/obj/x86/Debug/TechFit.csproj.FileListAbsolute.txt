@@ -1,0 +1,326 @@
+C:\Users\Fabio\Desktop\TechFit\TechFit\bin\Debug\TechFit.exe
+C:\Users\Fabio\Desktop\TechFit\TechFit\bin\Debug\TechFit.pdb
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunos.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunosCadastro.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.exe
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.pdb
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.exe
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.pdb
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\bin\Debug\TechFit.exe
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\bin\Debug\TechFit.pdb
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunos.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunosCadastro.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.exe
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.pdb
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\bin\Debug\TechFit.exe
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\bin\Debug\TechFit.pdb
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\bin\Debug\mysql.data.dll
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunos.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunosCadastro.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminEditarPerfil.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminObservacoes.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminObservacoesCadastro.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncPrincipal.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\te\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.exe
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.pdb
+F:\TechFit\TechFit\bin\Debug\TechFit.exe
+F:\TechFit\TechFit\bin\Debug\TechFit.pdb
+F:\TechFit\TechFit\bin\Debug\mysql.data.dll
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunos.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunosCadastro.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminEditarPerfilVELHO.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.exe
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.pdb
+G:\TechFit\TechFit\bin\Debug\TechFit.exe
+G:\TechFit\TechFit\bin\Debug\TechFit.pdb
+G:\TechFit\TechFit\bin\Debug\mysql.data.dll
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunos.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunosCadastro.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminEditarPerfilVELHO.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+G:\TechFit\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+F:\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\bin\Debug\mysql.data.dll
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\bin\Debug\mysql.data.dll
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+C:\Users\Fabio\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunoEditar.resources
+C:\Users\Julio Cesar\Desktop\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminAlunoEditar.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.exe
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.pdb
+F:\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.exe
+F:\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.pdb
+F:\TechFitANJOOOOOOO\TechFit\bin\Debug\mysql.data.dll
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunoEditar.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunos.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunosCadastro.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+F:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.exe
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.pdb
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunoEditar.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunos.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunosCadastro.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+G:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+G:\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.exe
+G:\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.pdb
+G:\TechFitANJOOOOOOO\TechFit\bin\Debug\mysql.data.dll
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.exe
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.pdb
+D:\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.exe
+D:\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.pdb
+D:\TechFitANJOOOOOOO\TechFit\bin\Debug\mysql.data.dll
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunoEditar.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunos.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminAlunosCadastro.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+D:\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+F:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.exe
+F:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.pdb
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.exe
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.pdb
+G:\ROLA\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.exe
+G:\ROLA\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.pdb
+G:\ROLA\TechFitANJOOOOOOO\TechFit\bin\Debug\mysql.data.dll
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunoEditar.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunos.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunosCadastro.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioEditar.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+G:\ROLA\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.exe
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.pdb
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.exe
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.pdb
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\bin\Debug\mysql.data.dll
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunoEditar.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunos.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunosCadastro.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFinanceiro.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFincanceioOpcoes.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioEditar.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+E:\INFO\TRABALHO INTERDISCIPLINAR\TechFit\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.exe
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.pdb
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.exe
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\bin\Debug\TechFit.pdb
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\bin\Debug\mysql.data.dll
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunoEditar.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunos.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAlunosCadastro.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioEditar.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoes.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFinanceiro.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFincanceioOpcoes.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmFuncObjetivos.resources
+C:\Users\Fabio\Desktop\ROOOOOOOOOOOOOOOO\TechFitANJOOOOOOO\TechFit\obj\x86\Debug\TechFit.frmObjetivosCadastro.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\bin\Debug\TechFit.exe
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\bin\Debug\TechFit.pdb
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\bin\Debug\mysql.data.dll
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAlunoEditar.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminCadastro.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAlunos.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAlunosCadastro.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminEditar.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmFinanceiro.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmFincanceioOpcoes.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarioEditar.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionarios.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminFuncionariosCadastro.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroDespesa.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmCadastroLucro.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncionarioEditar.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncObjetivos.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmObjetivosCadastro.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.Observações.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmObservacoesCadastro.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmAdminPrincipal.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmFuncionarioPrincipal.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaBuscaCEP.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaLogin.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.frmTelaSplash.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.Properties.Resources.resources
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.exe
+C:\Users\Fabio\Desktop\PPK\TechFit\TechFit\obj\x86\Debug\TechFit.pdb
